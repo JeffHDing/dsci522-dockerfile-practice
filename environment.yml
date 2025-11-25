@@ -1,0 +1,9 @@
+name: 522_individual_2
+channels:
+- conda-forge
+dependencies:
+- python=3.11.14
+- numpy=2.3.5
+- pandas=2.3.3
+- conda-lock=3.0.4
+prefix: /Users/jun/miniforge3/envs/522_individual_2
